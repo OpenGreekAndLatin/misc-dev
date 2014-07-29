@@ -47,8 +47,10 @@
                             <author ref="http://data.perseus.org/catalog/urn:cts:latinLit:phi0474">Cicero</author>   
                             <title ref="http://data.perseus.org/catalog/urn:cts:latinLit:phi0474.phi073">Ad C. Herennium. De Ratione Dicendi. (Rhetorica Ad Herennium)</title>
                             <imprint>
-                                <publisher>William Heinemann Ltd</publisher>
-                                <pubPlace>London</pubPlace>
+                                <publisher>William Heinemann Ltd, London</publisher>
+                                <publisher>Harvard University Press, Cambridge, Massachusetts</publisher>
+                                <pubPlace>London, United Kingdom</pubPlace>
+                                <pubPlace>Cambridge, Massachusetts, USA</pubPlace>
                                 <date>1964</date>
                             </imprint>
                             <biblScope unit="volume"/>

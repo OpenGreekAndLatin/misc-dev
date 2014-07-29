@@ -44,8 +44,10 @@
        <author ref="http://data.perseus.org/catalog/urn:cts:latinLit:phi1348">Suetonius</author>
        <title ref="http://data.perseus.org/catalog/urn:cts:latinLit:phi1348.phi001.opp-eng2">The Lives of the Caesars (continued)</title>
        <imprint>
-        <publisher>William Heinemann Ltd., Harvard University Press</publisher>
-        <pubPlace>Cambridge, London</pubPlace>
+        <publisher>William Heinemann Ltd, London</publisher>
+        <publisher>Harvard University Press, Cambridge, Massachusetts</publisher>
+        <pubPlace>London, United Kingdom</pubPlace>
+        <pubPlace>Cambridge, Massachusetts, USA</pubPlace>
         <date>1959</date>
        </imprint>
        <biblScope unit="volume"/>
