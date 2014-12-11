@@ -1,4 +1,6 @@
-﻿<TEI xmlns="http://www.tei-c.org/ns/1.0">
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
  <teiHeader>
   <fileDesc>
    <titleStmt>
@@ -171,7 +173,7 @@
     </div>
     <pb n="8"/>
     <div type="textpart" subtype="chapter" n="1">
-     <div xml:lang="la">
+     <div type="edition" xml:lang="la">
       <ab><title>ACTVS I</title></ab>
       <p><lb/><note type="margin">Pan.</note> Credo ego miseram fuisse Penelopam, soror, suo ex
        animo, quae tam diu vidua viro suo caruit; nam nos eius animum de nostris factis noscimus,
@@ -878,7 +880,7 @@
      </div>
     </div>
     <div type="textpart" subtype="chapter" n="2">
-     <div xml:lang="la">
+     <div type="edition" xml:lang="la">
       <ab><title>ACTVS II</title></ab>
       <p><lb/><note type="margin">Pin.</note> Mercurius, Iovis qui nuntius perhibetur, numquam aeque
        patri suo nuntium lepidum attulit quam ego nunc meae erae nuntiabo: itaque onustum pectus
@@ -1314,7 +1316,7 @@
     </div>
     <pb n="50"/>
     <div type="textpart" subtype="chapter" n="3">
-     <div xml:lang="la">
+     <div type="edition" xml:lang="la">
 
       <ab><title>ACTVS III</title></ab>
       <p><lb/><note type="margin">Epig.</note> Quom bene re gesta salvos convortor domum Neptuno
@@ -1554,7 +1556,7 @@
      </div>
     </div>
     <div type="textpart" subtype="chapter" n="4">
-     <div xml:lang="la">
+     <div type="edition" xml:lang="la">
       <ab><title>ACTVS IV</title></ab>
       <p><lb/><note type="margin">Ant.</note> Ita me di bene ament measque mihi <note
         type="footnote" n="1">1 Leo brackets following bene.</note> servassint filias, ut mihi volup
@@ -2010,7 +2012,7 @@
      </div>
     </div>
     <div type="textpart" subtype="chapter" n="5">
-     <div xml:lang="la">
+     <div type="edition" xml:lang="la">
       <ab><title>ACTVS V</title></ab>
       <p><lb/><note type="margin">Stick.</note> More hoc fit, atque stulte mea sententia: si quem
        hominem exspectant, eum solent provisere; qui hercle illa causa ocius nihilo venit. </p>
@@ -2629,7 +2631,7 @@
      </div>
     </div>
     <div type="textpart" subtype="chapter" n="1">
-     <div xml:lang="la">
+     <div type="edition" xml:lang="la">
       <ab><title>ACTVS I</title></ab>
       <p><lb/><note type="margin">Meg.</note> Amicum castigare ob meritam noxiam immoene est
        facinus, verum in aetate utile et conducibile. nam ego amicum hodie meum concastigabo pro
@@ -3087,7 +3089,7 @@
      </div>
     </div>
     <div type="textpart" subtype="chapter" n="2">
-     <div xml:lang="la">
+     <div type="edition" xml:lang="la">
       <ab><title>ACTVS II</title></ab>
       <p><lb/><note type="margin">Lys.</note> Multas res simitu in meo corde vorso, multum in
        cogitando dolorem indipiscor: egomet me coquo et macero et defetigo, magister mihi exercitor
@@ -4066,7 +4068,7 @@
      </div>
     </div>
     <div type="textpart" subtype="chapter" n="3">
-     <div xml:lang="la">
+     <div type="edition" xml:lang="la">
       <ab><title>ACTVS III</title></ab>
       <p><lb/><note type="margin">Call.</note> Quo modo tu istuc, Stasime, dixti? <lb/><note
         type="margin">Stas.</note> Nostrum erilem filium Lcsbonicum suam sororem despondisse. em hoc
@@ -4651,7 +4653,7 @@
      </div>
     </div>
     <div type="textpart" subtype="chapter" n="4">
-     <div xml:lang="la">
+     <div type="edition" xml:lang="la">
       <ab><title>ACTVS IV</title></ab>
       <p>
        <lb/><note type="margin">Charm.</note> Salsipotenti et mulsipotenti Iovis fratri et Nerei
@@ -5613,7 +5615,7 @@
      </div>
     </div>
     <div type="textpart" subtype="chapter" n="5">
-     <div xml:lang="la">
+     <div type="edition" xml:lang="la">
       <ab><title>ACTVS V</title></ab>
       <p><lb/><note type="margin">Lys.</note> Hic homost omnium hominum praecipuos, voluptatibus
        gaudiisque antepotens: ita commoda quae cupio eveniunt, quod ago adsequitur, subest,
@@ -5912,7 +5914,7 @@
     <ab><title type="main">TRVCVLENTVS</title></ab>
     <div type="textpart" subtype="preface">
      <pb n="224"/>
-     <div xml:lang="la">
+     <div type="edition" xml:lang="la">
       <ab><title>ARGVMENTVM</title></ab>
       <p><lb/>Tres unam pereunt adulescentes mulierem. <lb/>Rure unus, alter urbe, peregre tertius;
        <lb/>Vtque ista ingenti militem tangat bolo, <lb/>Clam sibi supposuit clandestino editum.
@@ -5950,7 +5952,7 @@
      <pb n="226"/>
     </div>
     <div type="textpart" subtype="prologue">
-     <div xml:lang="la">
+     <div type="edition" xml:lang="la">
 
       <ab><title>TITUS MACCIUS PLAUTUS PROLOGVS</title></ab>
       <p>Perparvam partem postulat Plautus loci de vestris magnis atque amoenis moenibus, Athenas
@@ -6492,7 +6494,7 @@
 
      <pb n="246"/>
 
-     <div xml:lang="la">
+     <div type="edition" xml:lang="la">
       <ab><title>ACTVS II</title></ab>
       <p>
        <lb/><note type="margin">Ast.</note> Hahahae, requievi, quia intro abiit odium meum. <note
@@ -7675,7 +7677,7 @@
      </div>
     </div>
     <div type="textpart" subtype="chapter" n="3">
-     <div xml:lang="la">
+     <div type="edition" xml:lang="la">
       <ab><title>ACTVS III</title></ab>
       <p><lb/><note type="margin">Strab.</note> Rus mane dudum hinc ire me iussit pater, ut bubus
        glandem prandio depromerem. post illoc quam veni, advenit, si dis placet, ad villam argentum
@@ -7832,7 +7834,7 @@
      </div>
     </div>
     <div type="textpart" subtype="chapter" n="4">
-     <div xml:lang="la">
+     <div type="edition" xml:lang="la">
       <ab><title>ACTVS IV</title></ab>
       <p><lb/><note type="margin">Din</note>. Neque gnatust neque progignetur neque potest
        reperirier cui ego nunc aut dictum aut factum melius quam veneri velim. <note type="margin"
@@ -8489,7 +8491,7 @@
      </div>
     </div>
     <div type="textpart" subtype="chapter" n="5">
-     <div xml:lang="la">
+     <div type="edition" xml:lang="la">
       <ab><title>ACTVS V</title></ab>
       <p><lb/><note type="margin">Strat.</note> Ego minam auri fero supplicium <note type="footnote"
         n="1">1 Corrupt (Leo); damnas Dousa.</note> damnis ad amicam meam: ut illud acceptum sit,
@@ -8803,7 +8805,7 @@
    <pb n="332"/>
    <div type="edition" subtype="section" n="4">
     <div type="textpart" subtype="preface">
-     <div xml:lang="la">
+     <div type="edition" xml:lang="la">
       <pb n="333"/>
       <ab><title type="main">VIDULARIA <lb/>OR <lb/>THE TALE OF A TRAVELLING BAG</title></ab>
       <p>[Only a score of fragments of the VIDULARIA, a total of hardly more than a hundred lines,
@@ -8845,7 +8847,7 @@
        n="15">15</note> uos pro hoc </p>
     </div>
     <div type="textpart" subtype="chapter">
-     <div xml:lang="la">
+     <div type="edition" xml:lang="la">
       <p>
        <lb/><note type="margin">Asp.</note> Hominem, semel quem usurpavit servitus <note
         type="margin">I. Nic.</note> Eiusdem Bacchae fecerunt nostram navem Pentheum. <note
