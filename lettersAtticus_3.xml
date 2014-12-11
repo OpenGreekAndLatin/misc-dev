@@ -4,7 +4,7 @@
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title>Letters to Atticus, Vol. 3</title>
+                <title>Letters to Atticus</title>
                 <sponsor>University of Leipzig</sponsor>
                 <funder>European Social Fund Saxony</funder>
                 <principal>Gregory Crane</principal>
@@ -41,14 +41,15 @@
                         <monogr>
                             <editor>
                                 <persName>
-                                    <name xml:lang="la">Eric Otto Winstedt, M.A.</name>
+                                    <name xml:lang="la">Eric Otto Winsted</name>
                                 </persName>
                             </editor>
                             <author ref="http://data.perseus.org/catalog/urn:cts:latinLit:phi0474">Cicero</author>
                             <title>Letters to Atticus</title>
                             <imprint>
-                                <publisher>William Heinemann Ltd., Harvard University Press</publisher>
-                                <pubPlace>London; Cambridge, Massachusetts</pubPlace>
+                                <publisher>William Heinemann; G. P. Putnam's Sons</publisher>
+                                <pubPlace>London, United Kingdom</pubPlace>
+                                <pubPlace>New York, USA</pubPlace>
                                 <date>1961</date>
                             </imprint>
                             <biblScope unit="volume">3</biblScope>
