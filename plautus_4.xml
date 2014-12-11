@@ -1,4 +1,6 @@
-﻿<TEI xmlns="http://www.tei-c.org/ns/1.0">
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
         <fileDesc>
             <titleStmt>
@@ -73,7 +75,7 @@
         <body>
             <div type="textpart" subtype="table_of_contents">
                 <ab><title>CONTENTS</title></ab>
-                <div type="texttype" subtype="column" n="1">
+                <div type="textpart" subtype="column" n="1">
                     <ab>
                         <lb/>I. Poenulus, or The Little Carthaginian page 1 <lb/>II. Pseudolus 144
                         <lb/>III. Rudens, or The Rope 287 <lb/>Index 437 </ab>
